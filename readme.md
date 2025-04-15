@@ -1,4 +1,3 @@
-
 # Multi-Cloud Resource Allocation using CloudAnalyst
 
 This project implements and analyzes resource allocation strategies in a multi-cloud environment using CloudAnalyst. The repository contains source code, configuration files, and Jupyter notebooks for simulating and evaluating different load-balancing and resource-allocation techniques.
